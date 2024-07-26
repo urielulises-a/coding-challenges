@@ -1,6 +1,6 @@
 # Codewars Challenges Repository
 
-¡Bienvenido a mí repositorio de desafíos, aquí encontraras retos de programación que he resuelto de la página [Codewars](https://www.codewars.com/)!
+¡Bienvenido a mí repositorio de desafíos, aquí encontrarás retos de programación que he resuelto de la página [Codewars](https://www.codewars.com/)!
 
 
 ## Estructura del Repositorio
