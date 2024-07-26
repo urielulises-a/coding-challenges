@@ -8,16 +8,16 @@
 El repositorio está organizado en carpetas según la dificultad de los desafíos. Cada carpeta contiene soluciones a los retos de Codewars correspondientes a su nivel de dificultad.
 
 ├── 8kyu/
-│ ├── challenge1.py
-│ ├── challenge2.py
+│ ├── challenge1
+│ ├── challenge2
 │ └── ...
 ├── 7kyu/
-│ ├── challenge1.py
-│ ├── challenge2.py
+│ ├── challenge1
+│ ├── challenge2
 │ └── ...
 ├── 6kyu/
-│ ├── challenge1.py
-│ ├── challenge2.py
+│ ├── challenge1
+│ ├── challenge2
 │ └── ...
 ...
 
@@ -29,8 +29,8 @@ El repositorio está organizado en carpetas según la dificultad de los desafío
 - **[5kyu](./5kyu)**: Retos avanzados que requieren un buen entendimiento de algoritmos y estructuras de datos.
 - **[4kyu](./4kyu)**: Retos más complejos, orientados a desarrolladores experimentados.
 - **[3kyu](./3kyu)**: Retos muy desafiantes que pueden involucrar conceptos avanzados de programación.
-- **[2kyu](./2kyu)**: Retos extremadamente difíciles que requieren habilidades de programación avanzadas.
-- **[1kyu](./1kyu)**: Los retos más difíciles de Codewars, solo para los más valientes y experimentados.
+- **[2kyu](./2kyu)**: Retos extremadamente difíciles que requieren conocimientos muy avanzadas.
+- **[1kyu](./1kyu)**: Los retos más difíciles de Codewars.
 
 ## Contribuciones
 
