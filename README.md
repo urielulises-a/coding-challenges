@@ -6,7 +6,7 @@
 ## Estructura del Repositorio
 
 El repositorio está organizado en carpetas según la dificultad de los desafíos. Cada carpeta contiene soluciones a los retos de Codewars correspondientes a su nivel de dificultad.
-
+.
 ├── 8kyu/
 │ ├── challenge1
 │ ├── challenge2
