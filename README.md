@@ -1,7 +1,7 @@
 # Codewars Challenges Repository
 
 ¡Bienvenido a mí repositorio de desafíos, aquí encontraras retos de programación que he resuelto de la página [Codewars](https://www.codewars.com/)!
-El lenguaje sobre el que está resuelto lo indicaré en el nombre con el siguiente formato [nombre_problema]_[lenguaje]
+
 
 ## Estructura del Repositorio
 
