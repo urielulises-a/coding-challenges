@@ -2,7 +2,7 @@
 
 Welcome to my challenges repository! Here you will find programming challenges that I have solved from the website [Codewars](https://www.codewars.com/)!
 
-the solved problem is commented on the top of each file with its test
+The solved problem is commented on the top of each file with its test
 
 
 ## Repository Structure
