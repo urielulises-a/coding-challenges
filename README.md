@@ -1,11 +1,12 @@
 # Codewars Challenges Repository
 
-¡Bienvenido a mí repositorio de desafíos, aquí encontrarás retos de programación que he resuelto de la página [Codewars](https://www.codewars.com/)!
+Welcome to my challenges repository! Here you will find programming challenges that I have solved from the website [Codewars](https://www.codewars.com/)!
 
 
-## Estructura del Repositorio
+## Repository Structure
 
-El repositorio está organizado en carpetas según la dificultad de los desafíos. Cada carpeta contiene soluciones a los retos de Codewars correspondientes a su nivel de dificultad.
+The repository is organized into folders according to the difficulty of the challenges. Each folder contains solutions to the Codewars challenges corresponding to their difficulty level.
+
 ```
 ├── 8kyu/
 │ ├── challenge1
@@ -21,23 +22,24 @@ El repositorio está organizado en carpetas según la dificultad de los desafío
 │ └── ...
 ...
 ```
-## Descripción de los niveles
+## Level Description
 
-- **[8kyu](./8kyu)**: Retos más básicos, ideales para principiantes.
-- **[7kyu](./7kyu)**: Retos para consolidar conocimientos básicos.
-- **[6kyu](./6kyu)**: Retos intermedios para desarrolladores con algo de experiencia.
-- **[5kyu](./5kyu)**: Retos avanzados que requieren un buen entendimiento de algoritmos y estructuras de datos.
-- **[4kyu](./4kyu)**: Retos más complejos, orientados a desarrolladores experimentados.
-- **[3kyu](./3kyu)**: Retos muy desafiantes que pueden involucrar conceptos avanzados de programación.
-- **[2kyu](./2kyu)**: Retos extremadamente difíciles que requieren conocimientos muy avanzadas.
-- **[1kyu](./1kyu)**: Los retos más difíciles de Codewars.
+- **[8kyu](./8kyu)**: The most basic challenges, ideal for beginners.
+- **[7kyu](./7kyu)**: Challenges to consolidate basic knowledge.
+- **[6kyu](./6kyu)**: Intermediate challenges for developers with some experience.
+- **[5kyu](./5kyu)**: Advanced challenges requiring a good understanding of algorithms and data structures.
+- **[4kyu](./4kyu)**: More complex challenges for experienced developers.
+- **[3kyu](./3kyu)**: Very challenging problems that may involve advanced programming concepts.
+- **[2kyu](./2kyu)**: Extremely difficult challenges requiring very advanced knowledge.
+- **[1kyu](./1kyu)**: The hardest challenges on Codewars.
 
-## Contribuciones
+## Contributions
 
-Si deseas agregar una nueva solución o mejorar alguna existente:
+If you wish to add a new solution or improve an existing one:
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-solucion`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Agrega nueva solución para [descripción del reto]'`).
-4. Sube tus cambios a tu repositorio (`git push origin feature/nueva-solucion`).
-5. Crea un Pull Request.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-solution`).
+3. Make your changes and commit them (`git commit -m 'Add new solution for [challenge description]'`).
+4. Push your changes to your repository (`git push origin feature/new-solution`).
+5. Create a Pull Request.
+
